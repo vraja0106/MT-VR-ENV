@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER M1019330
+MAINTAINER M1013279
 
 # Install JRE
 RUN apt-get update && apt-get install -y openjdk-7-jre 
